@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "160012889513",
+    "firebase_url": "https://auth-demos.firebaseio.com",
+    "project_id": "auth-demos",
+    "storage_bucket": "auth-demos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160012889513:android:5bf6f690a7c19ea9b7a8b8",
+        "android_client_info": {
+          "package_name": "com.enappd.IonicReactPush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160012889513-qkt18m4n7umihpbl5vjue1ekgubrp5ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr492YPMeeiJzbuH6lwEm6woBxuoxgcyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160012889513-qkt18m4n7umihpbl5vjue1ekgubrp5ve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160012889513-u4f6u4ck0vgegsn8ar7e82qdjvl8h64p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNGoogleLogin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160012889513:android:758f1d31bec1fb66",
+        "android_client_info": {
+          "package_name": "com.rngooglelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160012889513-pa35ffj3m0pssfem1l59voda2i0eotjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rngooglelogin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "160012889513-qkt18m4n7umihpbl5vjue1ekgubrp5ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr492YPMeeiJzbuH6lwEm6woBxuoxgcyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160012889513-qkt18m4n7umihpbl5vjue1ekgubrp5ve.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "160012889513-u4f6u4ck0vgegsn8ar7e82qdjvl8h64p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNGoogleLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
