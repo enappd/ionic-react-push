@@ -1,8 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">IonicReactPush</string>
-    <string name="title_activity_main">IonicReactPush</string>
-    <string name="package_name">com.enappd.IonicReactPush</string>
-    <string name="fileprovider_authority">com.enappd.IonicReactPush.fileprovider</string>
-    <string name="custom_url_scheme">com.enappd.IonicReactPush</string>
-</resources>

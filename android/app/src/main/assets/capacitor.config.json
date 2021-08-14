@@ -1,7 +1,0 @@
-{
-  "appId": "com.enappd.IonicReactPush",
-  "appName": "IonicReactPush",
-  "bundledWebRuntime": false,
-  "npmClient": "npm",
-  "webDir": "build"
-}

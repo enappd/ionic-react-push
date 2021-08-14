@@ -1,5 +1,5 @@
 {
-  "name": "IonicReactPush",
+  "name": "ionic-react-push",
   "integrations": {
     "capacitor": {}
   },
